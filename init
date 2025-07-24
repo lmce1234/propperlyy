@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/lmce1234/propperlyy.git
+git push -u origin main
